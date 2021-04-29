@@ -1,2 +1,2 @@
-# micro-credit-loan-data
+# Mushroom Project
 NA
